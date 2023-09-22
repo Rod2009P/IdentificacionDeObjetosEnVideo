@@ -1,0 +1,25 @@
+body {
+    background-size: cover;
+}
+.heading {
+    font-size: 20px;
+    width: 100%;
+    margin:0px;
+}
+#start, #number_of_objects, #status{
+    font-size: 17px;
+}
+.copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: darkred;
+    color: white;
+    text-align: center;
+}
+canvas {
+    border: 2px solid aquamarine;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px aqua;
+}
